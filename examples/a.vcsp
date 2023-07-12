@@ -1,0 +1,74 @@
+{
+    "vcsp_version": 4,
+    "project_name": "Untitled Project",
+    "base_bpm": 120,
+    "changes_bpm": [],
+    "beat_per_bar": 4,
+    "beat_unit": 4,
+    "tracks": [
+        {
+            "track_name": "Test",
+            "track_type": "synth",
+            "mute": false,
+            "solo": false,
+            "voice": {
+                "singer": "Norelln Lite",
+                "singerversion": "v4.0_3",
+                "default_language": "chinese_mandarin",
+                "default_mult_speakers_settings": {
+                    "default": 50,
+                    "soft": 20,
+                    "opera": 30
+                }
+            },
+            "track_default_settings": {
+                "volume": 0,
+                "channel": 0,
+                "gender": 0,
+                "power": 0,
+                "breath": 0
+            },
+            "notes": [
+                {
+                    "start": 400,
+                    "end": 500,
+                    "lyrics": "啊",
+                    "phonemes": {
+                        "a": 100
+                    },
+                    "pitch": 0,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                }
+            ],
+            "curves": {
+                "pitch": [
+                    390,
+                    -2,
+                    397,
+                    -2,
+                    412,
+                    0
+                ],
+                "dynamic": [],
+                "gender": [],
+                "power": [],
+                "breath": []
+            }
+        },
+        {
+            "track_name":"inst",
+            "track_type":"wave",
+            "mute": false,
+            "solo": false,
+            "file":{
+                "file_name":"a.wav",
+                "file_path":"C:/Users/Admin/Desktop"
+            },
+            "track_default_settings": {
+                "volume": 0,
+                "channel": 0
+            }
+        }
+    ]
+}
