@@ -1,0 +1,4432 @@
+{
+    "vcsp_version": 4,
+    "project_name": "Untitled Project",
+    "base_bpm": 150.0,
+    "changes_bpm": [],
+    "beat_per_bar": 4,
+    "beat_unit": 4,
+    "tracks": [
+        {
+            "track_name": "Test",
+            "track_type": "synth",
+            "mute": false,
+            "solo": false,
+            "voice": {
+                "singer": "Norelln Lite",
+                "singerversion": "v4.0_3",
+                "default_language": "chinese_mandarin",
+                "default_mult_speakers_settings": {
+                    "default": 100
+                }
+            },
+            "track_default_settings": {
+                "volume": 0,
+                "channel": 0,
+                "gender": 0,
+                "power": 0,
+                "breath": 0
+            },
+            "notes": [
+                {
+                    "lyrics": "shi",
+                    "phonemes": {},
+                    "start": 1900.0,
+                    "end": 2000.0,
+                    "pitch": -4,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "zhe",
+                    "phonemes": {},
+                    "start": 2000.0,
+                    "end": 2200.0,
+                    "pitch": 5,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "ju",
+                    "phonemes": {},
+                    "start": 2200.0,
+                    "end": 2300.0,
+                    "pitch": 8,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "yi",
+                    "phonemes": {},
+                    "start": 2300.0,
+                    "end": 2400.0,
+                    "pitch": 5,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "ba",
+                    "phonemes": {},
+                    "start": 2400.0,
+                    "end": 2500.0,
+                    "pitch": 3,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "xin",
+                    "phonemes": {},
+                    "start": 2500.0,
+                    "end": 2550.0,
+                    "pitch": 5,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "chen",
+                    "phonemes": {},
+                    "start": 2550.0,
+                    "end": 2700.0,
+                    "pitch": 5,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "zai",
+                    "phonemes": {},
+                    "start": 2700.0,
+                    "end": 2800.0,
+                    "pitch": -4,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "shou",
+                    "phonemes": {},
+                    "start": 2800.0,
+                    "end": 2950.0,
+                    "pitch": 0,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "xin",
+                    "phonemes": {},
+                    "start": 2950.0,
+                    "end": 3200.0,
+                    "pitch": 1,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "que",
+                    "phonemes": {},
+                    "start": 3500.0,
+                    "end": 3600.0,
+                    "pitch": 5,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "zhe",
+                    "phonemes": {},
+                    "start": 3600.0,
+                    "end": 3831.25,
+                    "pitch": 10,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "zhu",
+                    "phonemes": {},
+                    "start": 3900.0,
+                    "end": 3950.0,
+                    "pitch": 8,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "mi",
+                    "phonemes": {},
+                    "start": 3950.0,
+                    "end": 4000.0,
+                    "pitch": 8,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "lian",
+                    "phonemes": {},
+                    "start": 4000.0,
+                    "end": 4031.25,
+                    "pitch": 3,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "-",
+                    "phonemes": {},
+                    "start": 4031.25,
+                    "end": 4100.0,
+                    "pitch": 5,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "yao",
+                    "phonemes": {},
+                    "start": 4100.0,
+                    "end": 4200.0,
+                    "pitch": 3,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "yuan",
+                    "phonemes": {},
+                    "start": 4200.0,
+                    "end": 4350.0,
+                    "pitch": 3,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "de",
+                    "phonemes": {},
+                    "start": 4350.0,
+                    "end": 4400.0,
+                    "pitch": 1,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "yan",
+                    "phonemes": {},
+                    "start": 4400.0,
+                    "end": 4500.0,
+                    "pitch": 3,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "jin",
+                    "phonemes": {},
+                    "start": 4500.0,
+                    "end": 4550.0,
+                    "pitch": 3,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "-",
+                    "phonemes": {},
+                    "start": 4550.0,
+                    "end": 4850.0,
+                    "pitch": 5,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "chuang",
+                    "phonemes": {},
+                    "start": 5100.0,
+                    "end": 5200.0,
+                    "pitch": -4,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "wai",
+                    "phonemes": {},
+                    "start": 5200.0,
+                    "end": 5400.0,
+                    "pitch": 5,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "chuan",
+                    "phonemes": {},
+                    "start": 5400.0,
+                    "end": 5500.0,
+                    "pitch": 8,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "lai",
+                    "phonemes": {},
+                    "start": 5500.0,
+                    "end": 5600.0,
+                    "pitch": 5,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "ji",
+                    "phonemes": {},
+                    "start": 5600.0,
+                    "end": 5750.0,
+                    "pitch": 3,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "yi",
+                    "phonemes": {},
+                    "start": 5750.0,
+                    "end": 5850.0,
+                    "pitch": 5,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "de",
+                    "phonemes": {},
+                    "start": 5900.0,
+                    "end": 6000.0,
+                    "pitch": -4,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "sheng",
+                    "phonemes": {},
+                    "start": 6000.0,
+                    "end": 6050.0,
+                    "pitch": -1,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "-",
+                    "phonemes": {},
+                    "start": 6050.0,
+                    "end": 6150.0,
+                    "pitch": 0,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "yin",
+                    "phonemes": {},
+                    "start": 6150.0,
+                    "end": 6500.0,
+                    "pitch": 1,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "zai",
+                    "phonemes": {},
+                    "start": 6700.0,
+                    "end": 6750.0,
+                    "pitch": -2,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "ban",
+                    "phonemes": {},
+                    "start": 6750.0,
+                    "end": 6800.0,
+                    "pitch": 0,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "ye",
+                    "phonemes": {},
+                    "start": 6800.0,
+                    "end": 6850.0,
+                    "pitch": 1,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "mi",
+                    "phonemes": {},
+                    "start": 6900.0,
+                    "end": 7000.0,
+                    "pitch": 1,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "shi",
+                    "phonemes": {},
+                    "start": 7000.0,
+                    "end": 7050.0,
+                    "pitch": 1,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "zai",
+                    "phonemes": {},
+                    "start": 7100.0,
+                    "end": 7150.0,
+                    "pitch": 0,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "fang",
+                    "phonemes": {},
+                    "start": 7150.0,
+                    "end": 7200.0,
+                    "pitch": 1,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "jian",
+                    "phonemes": {},
+                    "start": 7200.0,
+                    "end": 7250.0,
+                    "pitch": 3,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "xiao",
+                    "phonemes": {},
+                    "start": 7300.0,
+                    "end": 7400.0,
+                    "pitch": 3,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "shi",
+                    "phonemes": {},
+                    "start": 7400.0,
+                    "end": 7450.0,
+                    "pitch": 3,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "qu",
+                    "phonemes": {},
+                    "start": 7500.0,
+                    "end": 7550.0,
+                    "pitch": 1,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "huan",
+                    "phonemes": {},
+                    "start": 7550.0,
+                    "end": 7600.0,
+                    "pitch": 3,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "xiang",
+                    "phonemes": {},
+                    "start": 7600.0,
+                    "end": 7800.0,
+                    "pitch": 5,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "zhe",
+                    "phonemes": {},
+                    "start": 7800.0,
+                    "end": 7950.0,
+                    "pitch": 9,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "ye",
+                    "phonemes": {},
+                    "start": 8000.0,
+                    "end": 8100.0,
+                    "pitch": 10,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "wan",
+                    "phonemes": {},
+                    "start": 8100.0,
+                    "end": 8200.0,
+                    "pitch": 12,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "zhi",
+                    "phonemes": {},
+                    "start": 8200.0,
+                    "end": 8300.0,
+                    "pitch": 13,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "qian",
+                    "phonemes": {},
+                    "start": 8300.0,
+                    "end": 8400.0,
+                    "pitch": 15,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "de",
+                    "phonemes": {},
+                    "start": 8400.0,
+                    "end": 8450.0,
+                    "pitch": 12,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "-",
+                    "phonemes": {},
+                    "start": 8450.0,
+                    "end": 8631.25,
+                    "pitch": 13,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "yi",
+                    "phonemes": {},
+                    "start": 8700.0,
+                    "end": 8750.0,
+                    "pitch": 10,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "zhong",
+                    "phonemes": {},
+                    "start": 8750.0,
+                    "end": 8781.25,
+                    "pitch": 10,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "-",
+                    "phonemes": {},
+                    "start": 8781.25,
+                    "end": 8900.0,
+                    "pitch": 12,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "tao",
+                    "phonemes": {},
+                    "start": 8900.0,
+                    "end": 8950.0,
+                    "pitch": 8,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "li",
+                    "phonemes": {},
+                    "start": 8950.0,
+                    "end": 9050.0,
+                    "pitch": 8,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "yin",
+                    "phonemes": {},
+                    "start": 9100.0,
+                    "end": 9150.0,
+                    "pitch": 8,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "xiang",
+                    "phonemes": {},
+                    "start": 9150.0,
+                    "end": 9200.0,
+                    "pitch": 10,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "zhong",
+                    "phonemes": {},
+                    "start": 9200.0,
+                    "end": 9300.0,
+                    "pitch": 12,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "shao",
+                    "phonemes": {},
+                    "start": 9300.0,
+                    "end": 9350.0,
+                    "pitch": 12,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "nian",
+                    "phonemes": {},
+                    "start": 9350.0,
+                    "end": 9400.0,
+                    "pitch": 12,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "de",
+                    "phonemes": {},
+                    "start": 9400.0,
+                    "end": 9450.0,
+                    "pitch": 12,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "shen",
+                    "phonemes": {},
+                    "start": 9450.0,
+                    "end": 9600.0,
+                    "pitch": 12,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "yin",
+                    "phonemes": {},
+                    "start": 9600.0,
+                    "end": 9750.0,
+                    "pitch": 13,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "you",
+                    "phonemes": {},
+                    "start": 9800.0,
+                    "end": 9900.0,
+                    "pitch": 5,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "zhe",
+                    "phonemes": {},
+                    "start": 9900.0,
+                    "end": 10000.0,
+                    "pitch": 8,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "qin",
+                    "phonemes": {},
+                    "start": 10000.0,
+                    "end": 10100.0,
+                    "pitch": 10,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "che",
+                    "phonemes": {},
+                    "start": 10100.0,
+                    "end": 10150.0,
+                    "pitch": 10,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "de",
+                    "phonemes": {},
+                    "start": 10150.0,
+                    "end": 10200.0,
+                    "pitch": 10,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "yan",
+                    "phonemes": {},
+                    "start": 10200.0,
+                    "end": 10250.0,
+                    "pitch": 10,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "jin",
+                    "phonemes": {},
+                    "start": 10250.0,
+                    "end": 10300.0,
+                    "pitch": 10,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "zui",
+                    "phonemes": {},
+                    "start": 10350.0,
+                    "end": 10400.0,
+                    "pitch": 10,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "li",
+                    "phonemes": {},
+                    "start": 10400.0,
+                    "end": 10450.0,
+                    "pitch": 10,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "hai",
+                    "phonemes": {},
+                    "start": 10450.0,
+                    "end": 10500.0,
+                    "pitch": 10,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "shuo",
+                    "phonemes": {},
+                    "start": 10500.0,
+                    "end": 10550.0,
+                    "pitch": 10,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "zhe",
+                    "phonemes": {},
+                    "start": 10550.0,
+                    "end": 10600.0,
+                    "pitch": 10,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "yin",
+                    "phonemes": {},
+                    "start": 10650.0,
+                    "end": 10700.0,
+                    "pitch": 10,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "wei",
+                    "phonemes": {},
+                    "start": 10700.0,
+                    "end": 10750.0,
+                    "pitch": 10,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "wo",
+                    "phonemes": {},
+                    "start": 10750.0,
+                    "end": 10800.0,
+                    "pitch": 10,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "men",
+                    "phonemes": {},
+                    "start": 10800.0,
+                    "end": 10850.0,
+                    "pitch": 13,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "hai",
+                    "phonemes": {},
+                    "start": 10850.0,
+                    "end": 10900.0,
+                    "pitch": 13,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "nian",
+                    "phonemes": {},
+                    "start": 10900.0,
+                    "end": 10950.0,
+                    "pitch": 13,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "qing",
+                    "phonemes": {},
+                    "start": 10950.0,
+                    "end": 11000.0,
+                    "pitch": 13,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "suo",
+                    "phonemes": {},
+                    "start": 11050.0,
+                    "end": 11100.0,
+                    "pitch": 13,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "yi",
+                    "phonemes": {},
+                    "start": 11100.0,
+                    "end": 11150.0,
+                    "pitch": 13,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "zong",
+                    "phonemes": {},
+                    "start": 11150.0,
+                    "end": 11200.0,
+                    "pitch": 13,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "you",
+                    "phonemes": {},
+                    "start": 11200.0,
+                    "end": 11300.0,
+                    "pitch": 13,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "zai",
+                    "phonemes": {},
+                    "start": 11300.0,
+                    "end": 11400.0,
+                    "pitch": 13,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "yi",
+                    "phonemes": {},
+                    "start": 11400.0,
+                    "end": 11500.0,
+                    "pitch": 15,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "ci",
+                    "phonemes": {},
+                    "start": 11500.0,
+                    "end": 11600.0,
+                    "pitch": 13,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "de",
+                    "phonemes": {},
+                    "start": 11600.0,
+                    "end": 11900.0,
+                    "pitch": 12,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "quan",
+                    "phonemes": {},
+                    "start": 11900.0,
+                    "end": 12000.0,
+                    "pitch": 10,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "li",
+                    "phonemes": {},
+                    "start": 12000.0,
+                    "end": 12100.0,
+                    "pitch": 10,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "wo",
+                    "phonemes": {},
+                    "start": 12200.0,
+                    "end": 12250.0,
+                    "pitch": 10,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "ye",
+                    "phonemes": {},
+                    "start": 12250.0,
+                    "end": 12300.0,
+                    "pitch": 12,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "xiang",
+                    "phonemes": {},
+                    "start": 12300.0,
+                    "end": 12350.0,
+                    "pitch": 14,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "shuo",
+                    "phonemes": {},
+                    "start": 12350.0,
+                    "end": 12400.0,
+                    "pitch": 15,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "zai",
+                    "phonemes": {},
+                    "start": 12400.0,
+                    "end": 12500.0,
+                    "pitch": 14,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "jian",
+                    "phonemes": {},
+                    "start": 12500.0,
+                    "end": 12550.0,
+                    "pitch": 17,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "a",
+                    "phonemes": {},
+                    "start": 12550.0,
+                    "end": 12650.0,
+                    "pitch": 17,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "feng",
+                    "phonemes": {},
+                    "start": 12700.0,
+                    "end": 12800.0,
+                    "pitch": 5,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "yue",
+                    "phonemes": {},
+                    "start": 12800.0,
+                    "end": 12900.0,
+                    "pitch": 12,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "meng",
+                    "phonemes": {},
+                    "start": 12900.0,
+                    "end": 12950.0,
+                    "pitch": 14,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "hua",
+                    "phonemes": {},
+                    "start": 12950.0,
+                    "end": 13050.0,
+                    "pitch": 14,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "ba",
+                    "phonemes": {},
+                    "start": 13100.0,
+                    "end": 13200.0,
+                    "pitch": 5,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "xiang",
+                    "phonemes": {},
+                    "start": 13200.0,
+                    "end": 13300.0,
+                    "pitch": 9,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "yu",
+                    "phonemes": {},
+                    "start": 13300.0,
+                    "end": 13350.0,
+                    "pitch": 10,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "nian",
+                    "phonemes": {},
+                    "start": 13350.0,
+                    "end": 13450.0,
+                    "pitch": 10,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "liu",
+                    "phonemes": {},
+                    "start": 13450.0,
+                    "end": 13600.0,
+                    "pitch": 5,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "xia",
+                    "phonemes": {},
+                    "start": 13600.0,
+                    "end": 13700.0,
+                    "pitch": 2,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "ke",
+                    "phonemes": {},
+                    "start": 13800.0,
+                    "end": 13900.0,
+                    "pitch": 10,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "kan",
+                    "phonemes": {},
+                    "start": 13900.0,
+                    "end": 14000.0,
+                    "pitch": 12,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "dao",
+                    "phonemes": {},
+                    "start": 14000.0,
+                    "end": 14100.0,
+                    "pitch": 14,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "chuang",
+                    "phonemes": {},
+                    "start": 14100.0,
+                    "end": 14150.0,
+                    "pitch": 17,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "tai",
+                    "phonemes": {},
+                    "start": 14150.0,
+                    "end": 14250.0,
+                    "pitch": 17,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "wei",
+                    "phonemes": {},
+                    "start": 14300.0,
+                    "end": 14350.0,
+                    "pitch": 5,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "wei",
+                    "phonemes": {},
+                    "start": 14350.0,
+                    "end": 14400.0,
+                    "pitch": 5,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "yao",
+                    "phonemes": {},
+                    "start": 14400.0,
+                    "end": 14450.0,
+                    "pitch": 14,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "ye",
+                    "phonemes": {},
+                    "start": 14450.0,
+                    "end": 14500.0,
+                    "pitch": 14,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "de",
+                    "phonemes": {},
+                    "start": 14500.0,
+                    "end": 14550.0,
+                    "pitch": 17,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "hua",
+                    "phonemes": {},
+                    "start": 14550.0,
+                    "end": 14650.0,
+                    "pitch": 17,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "que",
+                    "phonemes": {},
+                    "start": 14700.0,
+                    "end": 14750.0,
+                    "pitch": 12,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "nan",
+                    "phonemes": {},
+                    "start": 14750.0,
+                    "end": 14800.0,
+                    "pitch": 12,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "yi",
+                    "phonemes": {},
+                    "start": 14800.0,
+                    "end": 14900.0,
+                    "pitch": 12,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "zi",
+                    "phonemes": {},
+                    "start": 14900.0,
+                    "end": 14950.0,
+                    "pitch": 14,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "ba",
+                    "phonemes": {},
+                    "start": 14950.0,
+                    "end": 15300.0,
+                    "pitch": 14,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "ceng",
+                    "phonemes": {},
+                    "start": 15400.0,
+                    "end": 15450.0,
+                    "pitch": 7,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "jin",
+                    "phonemes": {},
+                    "start": 15450.0,
+                    "end": 15500.0,
+                    "pitch": 9,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "lu",
+                    "phonemes": {},
+                    "start": 15500.0,
+                    "end": 15550.0,
+                    "pitch": 10,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "shang",
+                    "phonemes": {},
+                    "start": 15550.0,
+                    "end": 15600.0,
+                    "pitch": 12,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "de",
+                    "phonemes": {},
+                    "start": 15600.0,
+                    "end": 15700.0,
+                    "pitch": 14,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "feng",
+                    "phonemes": {},
+                    "start": 15700.0,
+                    "end": 15750.0,
+                    "pitch": 17,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "chui",
+                    "phonemes": {},
+                    "start": 15750.0,
+                    "end": 15850.0,
+                    "pitch": 17,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "yu",
+                    "phonemes": {},
+                    "start": 15850.0,
+                    "end": 15900.0,
+                    "pitch": 17,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "da",
+                    "phonemes": {},
+                    "start": 15900.0,
+                    "end": 16000.0,
+                    "pitch": 17,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "you",
+                    "phonemes": {},
+                    "start": 16000.0,
+                    "end": 16050.0,
+                    "pitch": 19,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "yi",
+                    "phonemes": {},
+                    "start": 16050.0,
+                    "end": 16100.0,
+                    "pitch": 17,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "ge",
+                    "phonemes": {},
+                    "start": 16100.0,
+                    "end": 16150.0,
+                    "pitch": 17,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "deng",
+                    "phonemes": {},
+                    "start": 16150.0,
+                    "end": 16200.0,
+                    "pitch": 17,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "ta",
+                    "phonemes": {},
+                    "start": 16200.0,
+                    "end": 16300.0,
+                    "pitch": 17,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "wo",
+                    "phonemes": {},
+                    "start": 16300.0,
+                    "end": 16350.0,
+                    "pitch": 15,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "jiu",
+                    "phonemes": {},
+                    "start": 16350.0,
+                    "end": 16400.0,
+                    "pitch": 15,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "bu",
+                    "phonemes": {},
+                    "start": 16400.0,
+                    "end": 16500.0,
+                    "pitch": 15,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "bi",
+                    "phonemes": {},
+                    "start": 16500.0,
+                    "end": 16600.0,
+                    "pitch": 14,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "hai",
+                    "phonemes": {},
+                    "start": 16600.0,
+                    "end": 16700.0,
+                    "pitch": 12,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "pa",
+                    "phonemes": {},
+                    "start": 16700.0,
+                    "end": 16731.25,
+                    "pitch": 12,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "-",
+                    "phonemes": {},
+                    "start": 16731.25,
+                    "end": 16800.0,
+                    "pitch": 14,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "xiao",
+                    "phonemes": {},
+                    "start": 16900.0,
+                    "end": 17000.0,
+                    "pitch": 5,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "de",
+                    "phonemes": {},
+                    "start": 17000.0,
+                    "end": 17100.0,
+                    "pitch": 7,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "wen",
+                    "phonemes": {},
+                    "start": 17100.0,
+                    "end": 17300.0,
+                    "pitch": 14,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "nuan",
+                    "phonemes": {},
+                    "start": 17300.0,
+                    "end": 17400.0,
+                    "pitch": 17,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "ye",
+                    "phonemes": {},
+                    "start": 17400.0,
+                    "end": 17500.0,
+                    "pitch": 17,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "neng",
+                    "phonemes": {},
+                    "start": 17500.0,
+                    "end": 17700.0,
+                    "pitch": 14,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "bei",
+                    "phonemes": {},
+                    "start": 17700.0,
+                    "end": 17800.0,
+                    "pitch": 17,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "fang",
+                    "phonemes": {},
+                    "start": 17800.0,
+                    "end": 17900.0,
+                    "pitch": 5,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "da",
+                    "phonemes": {},
+                    "start": 17900.0,
+                    "end": 17950.0,
+                    "pitch": 5,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "-",
+                    "phonemes": {},
+                    "start": 17950.0,
+                    "end": 18400.0,
+                    "pitch": 7,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "kong",
+                    "phonemes": {},
+                    "start": 21900.0,
+                    "end": 22000.0,
+                    "pitch": -4,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "qi",
+                    "phonemes": {},
+                    "start": 22000.0,
+                    "end": 22200.0,
+                    "pitch": 5,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "zhong",
+                    "phonemes": {},
+                    "start": 22200.0,
+                    "end": 22300.0,
+                    "pitch": 8,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "de",
+                    "phonemes": {},
+                    "start": 22300.0,
+                    "end": 22400.0,
+                    "pitch": 5,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "guang",
+                    "phonemes": {},
+                    "start": 22400.0,
+                    "end": 22500.0,
+                    "pitch": 3,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "bo",
+                    "phonemes": {},
+                    "start": 22500.0,
+                    "end": 22550.0,
+                    "pitch": 5,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "sheng",
+                    "phonemes": {},
+                    "start": 22550.0,
+                    "end": 22650.0,
+                    "pitch": 5,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "zai",
+                    "phonemes": {},
+                    "start": 22700.0,
+                    "end": 22800.0,
+                    "pitch": -4,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "hui",
+                    "phonemes": {},
+                    "start": 22800.0,
+                    "end": 22900.0,
+                    "pitch": 0,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "dang",
+                    "phonemes": {},
+                    "start": 22900.0,
+                    "end": 22950.0,
+                    "pitch": 1,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "zhe",
+                    "phonemes": {},
+                    "start": 22950.0,
+                    "end": 23300.0,
+                    "pitch": 1,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "huang",
+                    "phonemes": {},
+                    "start": 23500.0,
+                    "end": 23600.0,
+                    "pitch": 5,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "hun",
+                    "phonemes": {},
+                    "start": 23600.0,
+                    "end": 23900.0,
+                    "pitch": 10,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "de",
+                    "phonemes": {},
+                    "start": 23900.0,
+                    "end": 23950.0,
+                    "pitch": 8,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "zhan",
+                    "phonemes": {},
+                    "start": 23950.0,
+                    "end": 24000.0,
+                    "pitch": 8,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "tai",
+                    "phonemes": {},
+                    "start": 24000.0,
+                    "end": 24100.0,
+                    "pitch": 5,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "yi",
+                    "phonemes": {},
+                    "start": 24100.0,
+                    "end": 24200.0,
+                    "pitch": 3,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "bei",
+                    "phonemes": {},
+                    "start": 24200.0,
+                    "end": 24300.0,
+                    "pitch": 3,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "yang",
+                    "phonemes": {},
+                    "start": 24300.0,
+                    "end": 24400.0,
+                    "pitch": 1,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "guang",
+                    "phonemes": {},
+                    "start": 24400.0,
+                    "end": 24500.0,
+                    "pitch": 3,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "yan",
+                    "phonemes": {},
+                    "start": 24500.0,
+                    "end": 24550.0,
+                    "pitch": 5,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "mo",
+                    "phonemes": {},
+                    "start": 24550.0,
+                    "end": 24900.0,
+                    "pitch": 5,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "wo",
+                    "phonemes": {},
+                    "start": 25100.0,
+                    "end": 25200.0,
+                    "pitch": -4,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "tuo",
+                    "phonemes": {},
+                    "start": 25200.0,
+                    "end": 25400.0,
+                    "pitch": 5,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "zhe",
+                    "phonemes": {},
+                    "start": 25400.0,
+                    "end": 25500.0,
+                    "pitch": 8,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "guo",
+                    "phonemes": {},
+                    "start": 25500.0,
+                    "end": 25600.0,
+                    "pitch": 5,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "wang",
+                    "phonemes": {},
+                    "start": 25600.0,
+                    "end": 25700.0,
+                    "pitch": 3,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "zai",
+                    "phonemes": {},
+                    "start": 25700.0,
+                    "end": 25750.0,
+                    "pitch": 5,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "ren",
+                    "phonemes": {},
+                    "start": 25750.0,
+                    "end": 25850.0,
+                    "pitch": 5,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "qun",
+                    "phonemes": {},
+                    "start": 25900.0,
+                    "end": 26000.0,
+                    "pitch": -4,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "zhong",
+                    "phonemes": {},
+                    "start": 26000.0,
+                    "end": 26100.0,
+                    "pitch": 0,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "chuan",
+                    "phonemes": {},
+                    "start": 26100.0,
+                    "end": 26150.0,
+                    "pitch": 1,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "suo",
+                    "phonemes": {},
+                    "start": 26150.0,
+                    "end": 26500.0,
+                    "pitch": 1,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "zhao",
+                    "phonemes": {},
+                    "start": 26700.0,
+                    "end": 26750.0,
+                    "pitch": -2,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "yi",
+                    "phonemes": {},
+                    "start": 26750.0,
+                    "end": 26800.0,
+                    "pitch": 0,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "ge",
+                    "phonemes": {},
+                    "start": 26800.0,
+                    "end": 26850.0,
+                    "pitch": 1,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "wei",
+                    "phonemes": {},
+                    "start": 26900.0,
+                    "end": 27000.0,
+                    "pitch": 1,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "zhi",
+                    "phonemes": {},
+                    "start": 27000.0,
+                    "end": 27050.0,
+                    "pitch": 1,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "deng",
+                    "phonemes": {},
+                    "start": 27100.0,
+                    "end": 27150.0,
+                    "pitch": 0,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "yi",
+                    "phonemes": {},
+                    "start": 27150.0,
+                    "end": 27200.0,
+                    "pitch": 1,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "duan",
+                    "phonemes": {},
+                    "start": 27200.0,
+                    "end": 27250.0,
+                    "pitch": 3,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "wei",
+                    "phonemes": {},
+                    "start": 27300.0,
+                    "end": 27400.0,
+                    "pitch": 3,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "zhi",
+                    "phonemes": {},
+                    "start": 27400.0,
+                    "end": 27450.0,
+                    "pitch": 3,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "qu",
+                    "phonemes": {},
+                    "start": 27500.0,
+                    "end": 27550.0,
+                    "pitch": 1,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "qi",
+                    "phonemes": {},
+                    "start": 27550.0,
+                    "end": 27600.0,
+                    "pitch": 3,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "dai",
+                    "phonemes": {},
+                    "start": 27600.0,
+                    "end": 27800.0,
+                    "pitch": 5,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "zhe",
+                    "phonemes": {},
+                    "start": 27800.0,
+                    "end": 27950.0,
+                    "pitch": 9,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "gu",
+                    "phonemes": {},
+                    "start": 28000.0,
+                    "end": 28100.0,
+                    "pitch": 10,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "zhi",
+                    "phonemes": {},
+                    "start": 28100.0,
+                    "end": 28200.0,
+                    "pitch": 12,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "ru",
+                    "phonemes": {},
+                    "start": 28200.0,
+                    "end": 28300.0,
+                    "pitch": 13,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "wo",
+                    "phonemes": {},
+                    "start": 28300.0,
+                    "end": 28400.0,
+                    "pitch": 15,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "de",
+                    "phonemes": {},
+                    "start": 28400.0,
+                    "end": 28468.75,
+                    "pitch": 12,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "-",
+                    "phonemes": {},
+                    "start": 28468.75,
+                    "end": 28650.0,
+                    "pitch": 13,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "na",
+                    "phonemes": {},
+                    "start": 28700.0,
+                    "end": 28750.0,
+                    "pitch": 10,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "xie",
+                    "phonemes": {},
+                    "start": 28750.0,
+                    "end": 28900.0,
+                    "pitch": 12,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "sheng",
+                    "phonemes": {},
+                    "start": 28900.0,
+                    "end": 28950.0,
+                    "pitch": 8,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "yin",
+                    "phonemes": {},
+                    "start": 28950.0,
+                    "end": 29050.0,
+                    "pitch": 8,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "si",
+                    "phonemes": {},
+                    "start": 29100.0,
+                    "end": 29150.0,
+                    "pitch": 8,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "xu",
+                    "phonemes": {},
+                    "start": 29150.0,
+                    "end": 29200.0,
+                    "pitch": 10,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "sui",
+                    "phonemes": {},
+                    "start": 29200.0,
+                    "end": 29300.0,
+                    "pitch": 12,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "yi",
+                    "phonemes": {},
+                    "start": 29300.0,
+                    "end": 29350.0,
+                    "pitch": 12,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "zhen",
+                    "phonemes": {},
+                    "start": 29350.0,
+                    "end": 29400.0,
+                    "pitch": 12,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "feng",
+                    "phonemes": {},
+                    "start": 29400.0,
+                    "end": 29450.0,
+                    "pitch": 12,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "piao",
+                    "phonemes": {},
+                    "start": 29450.0,
+                    "end": 29600.0,
+                    "pitch": 12,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "li",
+                    "phonemes": {},
+                    "start": 29600.0,
+                    "end": 29750.0,
+                    "pitch": 13,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "zai",
+                    "phonemes": {},
+                    "start": 29800.0,
+                    "end": 29900.0,
+                    "pitch": 5,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "chun",
+                    "phonemes": {},
+                    "start": 29900.0,
+                    "end": 30000.0,
+                    "pitch": 8,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "tian",
+                    "phonemes": {},
+                    "start": 30000.0,
+                    "end": 30100.0,
+                    "pitch": 10,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "de",
+                    "phonemes": {},
+                    "start": 30100.0,
+                    "end": 30150.0,
+                    "pitch": 10,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "yuan",
+                    "phonemes": {},
+                    "start": 30150.0,
+                    "end": 30200.0,
+                    "pitch": 10,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "ye",
+                    "phonemes": {},
+                    "start": 30200.0,
+                    "end": 30250.0,
+                    "pitch": 10,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "li",
+                    "phonemes": {},
+                    "start": 30250.0,
+                    "end": 30300.0,
+                    "pitch": 10,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "zai",
+                    "phonemes": {},
+                    "start": 30350.0,
+                    "end": 30400.0,
+                    "pitch": 10,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "zhi",
+                    "phonemes": {},
+                    "start": 30400.0,
+                    "end": 30450.0,
+                    "pitch": 10,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "jian",
+                    "phonemes": {},
+                    "start": 30450.0,
+                    "end": 30500.0,
+                    "pitch": 10,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "feng",
+                    "phonemes": {},
+                    "start": 30500.0,
+                    "end": 30550.0,
+                    "pitch": 10,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "xi",
+                    "phonemes": {},
+                    "start": 30550.0,
+                    "end": 30600.0,
+                    "pitch": 10,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "kan",
+                    "phonemes": {},
+                    "start": 30650.0,
+                    "end": 30700.0,
+                    "pitch": 10,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "jian",
+                    "phonemes": {},
+                    "start": 30700.0,
+                    "end": 30750.0,
+                    "pitch": 10,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "jing",
+                    "phonemes": {},
+                    "start": 30750.0,
+                    "end": 30800.0,
+                    "pitch": 10,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "shi",
+                    "phonemes": {},
+                    "start": 30800.0,
+                    "end": 30850.0,
+                    "pitch": 13,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "de",
+                    "phonemes": {},
+                    "start": 30850.0,
+                    "end": 30900.0,
+                    "pitch": 13,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "mei",
+                    "phonemes": {},
+                    "start": 30900.0,
+                    "end": 30950.0,
+                    "pitch": 13,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "li",
+                    "phonemes": {},
+                    "start": 30950.0,
+                    "end": 31000.0,
+                    "pitch": 13,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "zai",
+                    "phonemes": {},
+                    "start": 31050.0,
+                    "end": 31100.0,
+                    "pitch": 13,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "chen",
+                    "phonemes": {},
+                    "start": 31100.0,
+                    "end": 31150.0,
+                    "pitch": 13,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "xi",
+                    "phonemes": {},
+                    "start": 31150.0,
+                    "end": 31200.0,
+                    "pitch": 13,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "li",
+                    "phonemes": {},
+                    "start": 31200.0,
+                    "end": 31300.0,
+                    "pitch": 13,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "xiao",
+                    "phonemes": {},
+                    "start": 31300.0,
+                    "end": 31400.0,
+                    "pitch": 13,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "yan",
+                    "phonemes": {},
+                    "start": 31400.0,
+                    "end": 31500.0,
+                    "pitch": 15,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "ru",
+                    "phonemes": {},
+                    "start": 31500.0,
+                    "end": 31600.0,
+                    "pitch": 13,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "hua",
+                    "phonemes": {},
+                    "start": 31600.0,
+                    "end": 31900.0,
+                    "pitch": 12,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "de",
+                    "phonemes": {},
+                    "start": 31900.0,
+                    "end": 32000.0,
+                    "pitch": 10,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "ni",
+                    "phonemes": {},
+                    "start": 32000.0,
+                    "end": 32100.0,
+                    "pitch": 10,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "wo",
+                    "phonemes": {},
+                    "start": 32200.0,
+                    "end": 32250.0,
+                    "pitch": 10,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "duo",
+                    "phonemes": {},
+                    "start": 32250.0,
+                    "end": 32300.0,
+                    "pitch": 12,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "xiang",
+                    "phonemes": {},
+                    "start": 32300.0,
+                    "end": 32350.0,
+                    "pitch": 14,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "shuo",
+                    "phonemes": {},
+                    "start": 32350.0,
+                    "end": 32400.0,
+                    "pitch": 15,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "zai",
+                    "phonemes": {},
+                    "start": 32400.0,
+                    "end": 32500.0,
+                    "pitch": 14,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "jian",
+                    "phonemes": {},
+                    "start": 32500.0,
+                    "end": 32550.0,
+                    "pitch": 17,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "a",
+                    "phonemes": {},
+                    "start": 32550.0,
+                    "end": 32650.0,
+                    "pitch": 17,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "peng",
+                    "phonemes": {},
+                    "start": 32700.0,
+                    "end": 32800.0,
+                    "pitch": 5,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "qi",
+                    "phonemes": {},
+                    "start": 32800.0,
+                    "end": 32900.0,
+                    "pitch": 12,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "xue",
+                    "phonemes": {},
+                    "start": 32900.0,
+                    "end": 32950.0,
+                    "pitch": 14,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "hua",
+                    "phonemes": {},
+                    "start": 32950.0,
+                    "end": 33050.0,
+                    "pitch": 14,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "ba",
+                    "phonemes": {},
+                    "start": 33100.0,
+                    "end": 33200.0,
+                    "pitch": 5,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "ai",
+                    "phonemes": {},
+                    "start": 33200.0,
+                    "end": 33300.0,
+                    "pitch": 9,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "yu",
+                    "phonemes": {},
+                    "start": 33300.0,
+                    "end": 33350.0,
+                    "pitch": 10,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "hen",
+                    "phonemes": {},
+                    "start": 33350.0,
+                    "end": 33450.0,
+                    "pitch": 10,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "liu",
+                    "phonemes": {},
+                    "start": 33450.0,
+                    "end": 33600.0,
+                    "pitch": 5,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "xia",
+                    "phonemes": {},
+                    "start": 33600.0,
+                    "end": 33700.0,
+                    "pitch": 2,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "zhi",
+                    "phonemes": {},
+                    "start": 33800.0,
+                    "end": 33900.0,
+                    "pitch": 10,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "kan",
+                    "phonemes": {},
+                    "start": 33900.0,
+                    "end": 34000.0,
+                    "pitch": 12,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "zhe",
+                    "phonemes": {},
+                    "start": 34000.0,
+                    "end": 34100.0,
+                    "pitch": 14,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "yan",
+                    "phonemes": {},
+                    "start": 34100.0,
+                    "end": 34150.0,
+                    "pitch": 17,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "xia",
+                    "phonemes": {},
+                    "start": 34150.0,
+                    "end": 34250.0,
+                    "pitch": 17,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "cong",
+                    "phonemes": {},
+                    "start": 34300.0,
+                    "end": 34350.0,
+                    "pitch": 5,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "cong",
+                    "phonemes": {},
+                    "start": 34350.0,
+                    "end": 34400.0,
+                    "pitch": 5,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "yi",
+                    "phonemes": {},
+                    "start": 34400.0,
+                    "end": 34450.0,
+                    "pitch": 14,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "cu",
+                    "phonemes": {},
+                    "start": 34450.0,
+                    "end": 34500.0,
+                    "pitch": 14,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "fan",
+                    "phonemes": {},
+                    "start": 34500.0,
+                    "end": 34550.0,
+                    "pitch": 17,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "hua",
+                    "phonemes": {},
+                    "start": 34550.0,
+                    "end": 34650.0,
+                    "pitch": 17,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "zai",
+                    "phonemes": {},
+                    "start": 34700.0,
+                    "end": 34750.0,
+                    "pitch": 12,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "shou",
+                    "phonemes": {},
+                    "start": 34750.0,
+                    "end": 34800.0,
+                    "pitch": 12,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "zhong",
+                    "phonemes": {},
+                    "start": 34800.0,
+                    "end": 34900.0,
+                    "pitch": 12,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "rong",
+                    "phonemes": {},
+                    "start": 34900.0,
+                    "end": 34950.0,
+                    "pitch": 14,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "hua",
+                    "phonemes": {},
+                    "start": 34950.0,
+                    "end": 35300.0,
+                    "pitch": 14,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "bing",
+                    "phonemes": {},
+                    "start": 35400.0,
+                    "end": 35450.0,
+                    "pitch": 7,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "huang",
+                    "phonemes": {},
+                    "start": 35450.0,
+                    "end": 35500.0,
+                    "pitch": 9,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "ma",
+                    "phonemes": {},
+                    "start": 35500.0,
+                    "end": 35550.0,
+                    "pitch": 10,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "luan",
+                    "phonemes": {},
+                    "start": 35550.0,
+                    "end": 35600.0,
+                    "pitch": 12,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "de",
+                    "phonemes": {},
+                    "start": 35600.0,
+                    "end": 35700.0,
+                    "pitch": 14,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "qin",
+                    "phonemes": {},
+                    "start": 35700.0,
+                    "end": 35750.0,
+                    "pitch": 17,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "chun",
+                    "phonemes": {},
+                    "start": 35750.0,
+                    "end": 35850.0,
+                    "pitch": 17,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "nian",
+                    "phonemes": {},
+                    "start": 35850.0,
+                    "end": 35900.0,
+                    "pitch": 17,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "hua",
+                    "phonemes": {},
+                    "start": 35900.0,
+                    "end": 36000.0,
+                    "pitch": 17,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "yang",
+                    "phonemes": {},
+                    "start": 36000.0,
+                    "end": 36050.0,
+                    "pitch": 19,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "qi",
+                    "phonemes": {},
+                    "start": 36050.0,
+                    "end": 36100.0,
+                    "pitch": 17,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "de",
+                    "phonemes": {},
+                    "start": 36100.0,
+                    "end": 36150.0,
+                    "pitch": 17,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "feng",
+                    "phonemes": {},
+                    "start": 36150.0,
+                    "end": 36200.0,
+                    "pitch": 17,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "sha",
+                    "phonemes": {},
+                    "start": 36200.0,
+                    "end": 36300.0,
+                    "pitch": 17,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "dao",
+                    "phonemes": {},
+                    "start": 36300.0,
+                    "end": 36350.0,
+                    "pitch": 15,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "rang",
+                    "phonemes": {},
+                    "start": 36350.0,
+                    "end": 36400.0,
+                    "pitch": 15,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "ren",
+                    "phonemes": {},
+                    "start": 36400.0,
+                    "end": 36500.0,
+                    "pitch": 15,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "fang",
+                    "phonemes": {},
+                    "start": 36500.0,
+                    "end": 36600.0,
+                    "pitch": 14,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "bu",
+                    "phonemes": {},
+                    "start": 36600.0,
+                    "end": 36700.0,
+                    "pitch": 12,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "xia",
+                    "phonemes": {},
+                    "start": 36700.0,
+                    "end": 36800.0,
+                    "pitch": 14,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "xin",
+                    "phonemes": {},
+                    "start": 36900.0,
+                    "end": 37000.0,
+                    "pitch": 5,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "de",
+                    "phonemes": {},
+                    "start": 37000.0,
+                    "end": 37100.0,
+                    "pitch": 7,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "hu",
+                    "phonemes": {},
+                    "start": 37100.0,
+                    "end": 37300.0,
+                    "pitch": 14,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "han",
+                    "phonemes": {},
+                    "start": 37300.0,
+                    "end": 37400.0,
+                    "pitch": 17,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "ni",
+                    "phonemes": {},
+                    "start": 37400.0,
+                    "end": 37500.0,
+                    "pitch": 17,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "ting",
+                    "phonemes": {},
+                    "start": 37500.0,
+                    "end": 37700.0,
+                    "pitch": 14,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "jian",
+                    "phonemes": {},
+                    "start": 37700.0,
+                    "end": 37800.0,
+                    "pitch": 17,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "le",
+                    "phonemes": {},
+                    "start": 37800.0,
+                    "end": 37900.0,
+                    "pitch": 17,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "ma",
+                    "phonemes": {},
+                    "start": 37900.0,
+                    "end": 38800.0,
+                    "pitch": 19,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "dang",
+                    "phonemes": {},
+                    "start": 38900.0,
+                    "end": 39000.0,
+                    "pitch": 19,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "min",
+                    "phonemes": {},
+                    "start": 39000.0,
+                    "end": 39100.0,
+                    "pitch": 19,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "zhong",
+                    "phonemes": {},
+                    "start": 39100.0,
+                    "end": 39150.0,
+                    "pitch": 17,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "de",
+                    "phonemes": {},
+                    "start": 39150.0,
+                    "end": 39300.0,
+                    "pitch": 17,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "yu",
+                    "phonemes": {},
+                    "start": 39300.0,
+                    "end": 39400.0,
+                    "pitch": 14,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "di",
+                    "phonemes": {},
+                    "start": 39400.0,
+                    "end": 39450.0,
+                    "pitch": 14,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "zai",
+                    "phonemes": {},
+                    "start": 39450.0,
+                    "end": 39550.0,
+                    "pitch": 12,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "shou",
+                    "phonemes": {},
+                    "start": 39600.0,
+                    "end": 39700.0,
+                    "pitch": 12,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "zhong",
+                    "phonemes": {},
+                    "start": 39700.0,
+                    "end": 39750.0,
+                    "pitch": 10,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "zheng",
+                    "phonemes": {},
+                    "start": 39750.0,
+                    "end": 39900.0,
+                    "pitch": 10,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "fa",
+                    "phonemes": {},
+                    "start": 39900.0,
+                    "end": 40000.0,
+                    "pitch": 9,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "gan",
+                    "phonemes": {},
+                    "start": 40000.0,
+                    "end": 40200.0,
+                    "pitch": 10,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "jing",
+                    "phonemes": {},
+                    "start": 40200.0,
+                    "end": 40400.0,
+                    "pitch": 12,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "wo",
+                    "phonemes": {},
+                    "start": 40500.0,
+                    "end": 40600.0,
+                    "pitch": 14,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "zong",
+                    "phonemes": {},
+                    "start": 40600.0,
+                    "end": 40700.0,
+                    "pitch": 14,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "zai",
+                    "phonemes": {},
+                    "start": 40700.0,
+                    "end": 40750.0,
+                    "pitch": 12,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "si",
+                    "phonemes": {},
+                    "start": 40750.0,
+                    "end": 40900.0,
+                    "pitch": 12,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "kao",
+                    "phonemes": {},
+                    "start": 40900.0,
+                    "end": 41000.0,
+                    "pitch": 10,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "cun",
+                    "phonemes": {},
+                    "start": 41000.0,
+                    "end": 41050.0,
+                    "pitch": 12,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "zai",
+                    "phonemes": {},
+                    "start": 41050.0,
+                    "end": 41200.0,
+                    "pitch": 14,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "he",
+                    "phonemes": {},
+                    "start": 41200.0,
+                    "end": 41300.0,
+                    "pitch": 14,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "xiao",
+                    "phonemes": {},
+                    "start": 41300.0,
+                    "end": 41350.0,
+                    "pitch": 12,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "shi",
+                    "phonemes": {},
+                    "start": 41350.0,
+                    "end": 41500.0,
+                    "pitch": 12,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "de",
+                    "phonemes": {},
+                    "start": 41500.0,
+                    "end": 41600.0,
+                    "pitch": 14,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "yi",
+                    "phonemes": {},
+                    "start": 41600.0,
+                    "end": 41800.0,
+                    "pitch": 14,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "yi",
+                    "phonemes": {},
+                    "start": 41800.0,
+                    "end": 42000.0,
+                    "pitch": 17,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "cuo",
+                    "phonemes": {},
+                    "start": 42100.0,
+                    "end": 42200.0,
+                    "pitch": 10,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "e",
+                    "phonemes": {},
+                    "start": 42200.0,
+                    "end": 42250.0,
+                    "pitch": 9,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "yu",
+                    "phonemes": {},
+                    "start": 42250.0,
+                    "end": 42350.0,
+                    "pitch": 10,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "yi",
+                    "phonemes": {},
+                    "start": 42400.0,
+                    "end": 42500.0,
+                    "pitch": 7,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "ge",
+                    "phonemes": {},
+                    "start": 42500.0,
+                    "end": 42550.0,
+                    "pitch": 9,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "xi",
+                    "phonemes": {},
+                    "start": 42550.0,
+                    "end": 42650.0,
+                    "pitch": 10,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "guan",
+                    "phonemes": {},
+                    "start": 42650.0,
+                    "end": 42800.0,
+                    "pitch": 12,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "ben",
+                    "phonemes": {},
+                    "start": 42800.0,
+                    "end": 42900.0,
+                    "pitch": 14,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "bu",
+                    "phonemes": {},
+                    "start": 42900.0,
+                    "end": 42950.0,
+                    "pitch": 12,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "shu",
+                    "phonemes": {},
+                    "start": 42950.0,
+                    "end": 43100.0,
+                    "pitch": 12,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "yu",
+                    "phonemes": {},
+                    "start": 43100.0,
+                    "end": 43200.0,
+                    "pitch": 10,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "zi",
+                    "phonemes": {},
+                    "start": 43200.0,
+                    "end": 43400.0,
+                    "pitch": 12,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "ji",
+                    "phonemes": {},
+                    "start": 43400.0,
+                    "end": 43600.0,
+                    "pitch": 14,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "cai",
+                    "phonemes": {},
+                    "start": 43700.0,
+                    "end": 43800.0,
+                    "pitch": 15,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "fa",
+                    "phonemes": {},
+                    "start": 43800.0,
+                    "end": 43850.0,
+                    "pitch": 14,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "xian",
+                    "phonemes": {},
+                    "start": 43850.0,
+                    "end": 43950.0,
+                    "pitch": 15,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "you",
+                    "phonemes": {},
+                    "start": 43950.0,
+                    "end": 44000.0,
+                    "pitch": 10,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "shi",
+                    "phonemes": {},
+                    "start": 44000.0,
+                    "end": 44100.0,
+                    "pitch": 12,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "hou",
+                    "phonemes": {},
+                    "start": 44100.0,
+                    "end": 44150.0,
+                    "pitch": 10,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "wo",
+                    "phonemes": {},
+                    "start": 44150.0,
+                    "end": 44250.0,
+                    "pitch": 9,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "qi",
+                    "phonemes": {},
+                    "start": 44250.0,
+                    "end": 44400.0,
+                    "pitch": 10,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "shi",
+                    "phonemes": {},
+                    "start": 44400.0,
+                    "end": 44718.75,
+                    "pitch": 14,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "-",
+                    "phonemes": {},
+                    "start": 44718.75,
+                    "end": 44750.0,
+                    "pitch": 15,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "-",
+                    "phonemes": {},
+                    "start": 44750.0,
+                    "end": 44781.25,
+                    "pitch": 14,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "-",
+                    "phonemes": {},
+                    "start": 44781.25,
+                    "end": 44900.0,
+                    "pitch": 12,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "shi",
+                    "phonemes": {},
+                    "start": 45000.0,
+                    "end": 45200.0,
+                    "pitch": 5,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "ni",
+                    "phonemes": {},
+                    "start": 45200.0,
+                    "end": 45700.0,
+                    "pitch": 19,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "xiang",
+                    "phonemes": {},
+                    "start": 46600.0,
+                    "end": 46700.0,
+                    "pitch": 10,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "shuo",
+                    "phonemes": {},
+                    "start": 46700.0,
+                    "end": 46800.0,
+                    "pitch": 12,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "zai",
+                    "phonemes": {},
+                    "start": 46800.0,
+                    "end": 46900.0,
+                    "pitch": 14,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "jian",
+                    "phonemes": {},
+                    "start": 46900.0,
+                    "end": 46950.0,
+                    "pitch": 17,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "a",
+                    "phonemes": {},
+                    "start": 46950.0,
+                    "end": 47100.0,
+                    "pitch": 17,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "shi",
+                    "phonemes": {},
+                    "start": 47100.0,
+                    "end": 47200.0,
+                    "pitch": 5,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "zai",
+                    "phonemes": {},
+                    "start": 47200.0,
+                    "end": 47300.0,
+                    "pitch": 12,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "jian",
+                    "phonemes": {},
+                    "start": 47300.0,
+                    "end": 47350.0,
+                    "pitch": 14,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "a",
+                    "phonemes": {},
+                    "start": 47350.0,
+                    "end": 47500.0,
+                    "pitch": 14,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "ba",
+                    "phonemes": {},
+                    "start": 47500.0,
+                    "end": 47600.0,
+                    "pitch": 5,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "ni",
+                    "phonemes": {},
+                    "start": 47600.0,
+                    "end": 47700.0,
+                    "pitch": 9,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "he",
+                    "phonemes": {},
+                    "start": 47700.0,
+                    "end": 47750.0,
+                    "pitch": 10,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "wo",
+                    "phonemes": {},
+                    "start": 47750.0,
+                    "end": 47850.0,
+                    "pitch": 10,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "liu",
+                    "phonemes": {},
+                    "start": 47850.0,
+                    "end": 48000.0,
+                    "pitch": 5,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "xia",
+                    "phonemes": {},
+                    "start": 48000.0,
+                    "end": 48112.5,
+                    "pitch": 2,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "yu",
+                    "phonemes": {},
+                    "start": 48200.0,
+                    "end": 48300.0,
+                    "pitch": 10,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "zi",
+                    "phonemes": {},
+                    "start": 48300.0,
+                    "end": 48400.0,
+                    "pitch": 12,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "ji",
+                    "phonemes": {},
+                    "start": 48400.0,
+                    "end": 48500.0,
+                    "pitch": 14,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "chong",
+                    "phonemes": {},
+                    "start": 48500.0,
+                    "end": 48550.0,
+                    "pitch": 17,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "die",
+                    "phonemes": {},
+                    "start": 48550.0,
+                    "end": 48650.0,
+                    "pitch": 17,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "ding",
+                    "phonemes": {},
+                    "start": 48700.0,
+                    "end": 48750.0,
+                    "pitch": 5,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "ge",
+                    "phonemes": {},
+                    "start": 48750.0,
+                    "end": 48800.0,
+                    "pitch": 5,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "zai",
+                    "phonemes": {},
+                    "start": 48800.0,
+                    "end": 48850.0,
+                    "pitch": 14,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "yi",
+                    "phonemes": {},
+                    "start": 48850.0,
+                    "end": 48900.0,
+                    "pitch": 14,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "cha",
+                    "phonemes": {},
+                    "start": 48900.0,
+                    "end": 48950.0,
+                    "pitch": 17,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "na",
+                    "phonemes": {},
+                    "start": 48950.0,
+                    "end": 49050.0,
+                    "pitch": 17,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "duan",
+                    "phonemes": {},
+                    "start": 49100.0,
+                    "end": 49200.0,
+                    "pitch": 12,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "zan",
+                    "phonemes": {},
+                    "start": 49200.0,
+                    "end": 49300.0,
+                    "pitch": 12,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "jiao",
+                    "phonemes": {},
+                    "start": 49300.0,
+                    "end": 49350.0,
+                    "pitch": 14,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "cha",
+                    "phonemes": {},
+                    "start": 49350.0,
+                    "end": 49700.0,
+                    "pitch": 14,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "zai",
+                    "phonemes": {},
+                    "start": 49800.0,
+                    "end": 49850.0,
+                    "pitch": 7,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "lin",
+                    "phonemes": {},
+                    "start": 49850.0,
+                    "end": 49900.0,
+                    "pitch": 9,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "wai",
+                    "phonemes": {},
+                    "start": 49900.0,
+                    "end": 49950.0,
+                    "pitch": 10,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "yi",
+                    "phonemes": {},
+                    "start": 49950.0,
+                    "end": 50000.0,
+                    "pitch": 12,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "ge",
+                    "phonemes": {},
+                    "start": 50000.0,
+                    "end": 50100.0,
+                    "pitch": 14,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "chun",
+                    "phonemes": {},
+                    "start": 50100.0,
+                    "end": 50150.0,
+                    "pitch": 17,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "qiu",
+                    "phonemes": {},
+                    "start": 50150.0,
+                    "end": 50250.0,
+                    "pitch": 17,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "dong",
+                    "phonemes": {},
+                    "start": 50250.0,
+                    "end": 50300.0,
+                    "pitch": 17,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "xia",
+                    "phonemes": {},
+                    "start": 50300.0,
+                    "end": 50400.0,
+                    "pitch": 17,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "ji",
+                    "phonemes": {},
+                    "start": 50400.0,
+                    "end": 50450.0,
+                    "pitch": 19,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "xu",
+                    "phonemes": {},
+                    "start": 50450.0,
+                    "end": 50500.0,
+                    "pitch": 17,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "zhe",
+                    "phonemes": {},
+                    "start": 50500.0,
+                    "end": 50550.0,
+                    "pitch": 17,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "xuan",
+                    "phonemes": {},
+                    "start": 50550.0,
+                    "end": 50600.0,
+                    "pitch": 17,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "hua",
+                    "phonemes": {},
+                    "start": 50600.0,
+                    "end": 50700.0,
+                    "pitch": 17,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "er",
+                    "phonemes": {},
+                    "start": 50700.0,
+                    "end": 50750.0,
+                    "pitch": 15,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "wo",
+                    "phonemes": {},
+                    "start": 50750.0,
+                    "end": 50800.0,
+                    "pitch": 15,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "chong",
+                    "phonemes": {},
+                    "start": 50800.0,
+                    "end": 50900.0,
+                    "pitch": 15,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "xin",
+                    "phonemes": {},
+                    "start": 50900.0,
+                    "end": 51000.0,
+                    "pitch": 14,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "chu",
+                    "phonemes": {},
+                    "start": 51000.0,
+                    "end": 51100.0,
+                    "pitch": 12,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "fa",
+                    "phonemes": {},
+                    "start": 51100.0,
+                    "end": 51200.0,
+                    "pitch": 14,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "hui",
+                    "phonemes": {},
+                    "start": 51300.0,
+                    "end": 51400.0,
+                    "pitch": 5,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "jin",
+                    "phonemes": {},
+                    "start": 51400.0,
+                    "end": 51500.0,
+                    "pitch": 7,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "li",
+                    "phonemes": {},
+                    "start": 51500.0,
+                    "end": 51700.0,
+                    "pitch": 14,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "chong",
+                    "phonemes": {},
+                    "start": 51700.0,
+                    "end": 51800.0,
+                    "pitch": 17,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "xin",
+                    "phonemes": {},
+                    "start": 51800.0,
+                    "end": 51900.0,
+                    "pitch": 17,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "sheng",
+                    "phonemes": {},
+                    "start": 51900.0,
+                    "end": 52100.0,
+                    "pitch": 14,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "gen",
+                    "phonemes": {},
+                    "start": 52100.0,
+                    "end": 52200.0,
+                    "pitch": 17,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "fa",
+                    "phonemes": {},
+                    "start": 52200.0,
+                    "end": 52350.0,
+                    "pitch": 5,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "ya",
+                    "phonemes": {},
+                    "start": 52350.0,
+                    "end": 52850.0,
+                    "pitch": 7,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "wo",
+                    "phonemes": {},
+                    "start": 53000.0,
+                    "end": 53050.0,
+                    "pitch": 10,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "ceng",
+                    "phonemes": {},
+                    "start": 53050.0,
+                    "end": 53100.0,
+                    "pitch": 12,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "zuo",
+                    "phonemes": {},
+                    "start": 53100.0,
+                    "end": 53150.0,
+                    "pitch": 14,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "guo",
+                    "phonemes": {},
+                    "start": 53150.0,
+                    "end": 53200.0,
+                    "pitch": 15,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "de",
+                    "phonemes": {},
+                    "start": 53200.0,
+                    "end": 53300.0,
+                    "pitch": 14,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "meng",
+                    "phonemes": {},
+                    "start": 53300.0,
+                    "end": 53350.0,
+                    "pitch": 17,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "a",
+                    "phonemes": {},
+                    "start": 53350.0,
+                    "end": 53450.0,
+                    "pitch": 17,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "guang",
+                    "phonemes": {},
+                    "start": 53500.0,
+                    "end": 53600.0,
+                    "pitch": 5,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "he",
+                    "phonemes": {},
+                    "start": 53600.0,
+                    "end": 53700.0,
+                    "pitch": 12,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "chan",
+                    "phonemes": {},
+                    "start": 53700.0,
+                    "end": 53750.0,
+                    "pitch": 14,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "ming",
+                    "phonemes": {},
+                    "start": 53750.0,
+                    "end": 53850.0,
+                    "pitch": 14,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "zhuang",
+                    "phonemes": {},
+                    "start": 53900.0,
+                    "end": 54000.0,
+                    "pitch": 5,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "man",
+                    "phonemes": {},
+                    "start": 54000.0,
+                    "end": 54100.0,
+                    "pitch": 9,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "zheng",
+                    "phonemes": {},
+                    "start": 54100.0,
+                    "end": 54150.0,
+                    "pitch": 10,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "ge",
+                    "phonemes": {},
+                    "start": 54150.0,
+                    "end": 54250.0,
+                    "pitch": 10,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "sheng",
+                    "phonemes": {},
+                    "start": 54250.0,
+                    "end": 54400.0,
+                    "pitch": 5,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "xia",
+                    "phonemes": {},
+                    "start": 54400.0,
+                    "end": 54550.0,
+                    "pitch": 2,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "ni",
+                    "phonemes": {},
+                    "start": 54600.0,
+                    "end": 54700.0,
+                    "pitch": 10,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "wang",
+                    "phonemes": {},
+                    "start": 54700.0,
+                    "end": 54800.0,
+                    "pitch": 12,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "zhe",
+                    "phonemes": {},
+                    "start": 54800.0,
+                    "end": 54900.0,
+                    "pitch": 14,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "wan",
+                    "phonemes": {},
+                    "start": 54900.0,
+                    "end": 54950.0,
+                    "pitch": 17,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "xia",
+                    "phonemes": {},
+                    "start": 54950.0,
+                    "end": 55050.0,
+                    "pitch": 17,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "qin",
+                    "phonemes": {},
+                    "start": 55100.0,
+                    "end": 55150.0,
+                    "pitch": 5,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "sheng",
+                    "phonemes": {},
+                    "start": 55150.0,
+                    "end": 55200.0,
+                    "pitch": 5,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "he",
+                    "phonemes": {},
+                    "start": 55200.0,
+                    "end": 55250.0,
+                    "pitch": 14,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "wo",
+                    "phonemes": {},
+                    "start": 55250.0,
+                    "end": 55300.0,
+                    "pitch": 14,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "shuo",
+                    "phonemes": {},
+                    "start": 55300.0,
+                    "end": 55350.0,
+                    "pitch": 17,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "hua",
+                    "phonemes": {},
+                    "start": 55350.0,
+                    "end": 55450.0,
+                    "pitch": 17,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "ting",
+                    "phonemes": {},
+                    "start": 55500.0,
+                    "end": 55550.0,
+                    "pitch": 12,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "wo",
+                    "phonemes": {},
+                    "start": 55550.0,
+                    "end": 55600.0,
+                    "pitch": 12,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "de",
+                    "phonemes": {},
+                    "start": 55600.0,
+                    "end": 55700.0,
+                    "pitch": 12,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "hui",
+                    "phonemes": {},
+                    "start": 55700.0,
+                    "end": 55750.0,
+                    "pitch": 14,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "da",
+                    "phonemes": {},
+                    "start": 55750.0,
+                    "end": 56100.0,
+                    "pitch": 14,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "shei",
+                    "phonemes": {},
+                    "start": 56200.0,
+                    "end": 56250.0,
+                    "pitch": 7,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "dou",
+                    "phonemes": {},
+                    "start": 56250.0,
+                    "end": 56300.0,
+                    "pitch": 9,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "xiang",
+                    "phonemes": {},
+                    "start": 56300.0,
+                    "end": 56350.0,
+                    "pitch": 10,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "yi",
+                    "phonemes": {},
+                    "start": 56350.0,
+                    "end": 56400.0,
+                    "pitch": 12,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "sheng",
+                    "phonemes": {},
+                    "start": 56400.0,
+                    "end": 56500.0,
+                    "pitch": 14,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "lang",
+                    "phonemes": {},
+                    "start": 56500.0,
+                    "end": 56550.0,
+                    "pitch": 17,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "man",
+                    "phonemes": {},
+                    "start": 56550.0,
+                    "end": 56650.0,
+                    "pitch": 17,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "wu",
+                    "phonemes": {},
+                    "start": 56650.0,
+                    "end": 56700.0,
+                    "pitch": 17,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "xia",
+                    "phonemes": {},
+                    "start": 56700.0,
+                    "end": 56800.0,
+                    "pitch": 17,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "xue",
+                    "phonemes": {},
+                    "start": 56800.0,
+                    "end": 56850.0,
+                    "pitch": 19,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "yue",
+                    "phonemes": {},
+                    "start": 56850.0,
+                    "end": 56900.0,
+                    "pitch": 17,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "he",
+                    "phonemes": {},
+                    "start": 56900.0,
+                    "end": 56950.0,
+                    "pitch": 17,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "feng",
+                    "phonemes": {},
+                    "start": 56950.0,
+                    "end": 57000.0,
+                    "pitch": 17,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "hua",
+                    "phonemes": {},
+                    "start": 57000.0,
+                    "end": 57100.0,
+                    "pitch": 17,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "qu",
+                    "phonemes": {},
+                    "start": 57100.0,
+                    "end": 57150.0,
+                    "pitch": 15,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "si",
+                    "phonemes": {},
+                    "start": 57150.0,
+                    "end": 57200.0,
+                    "pitch": 15,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "nian",
+                    "phonemes": {},
+                    "start": 57200.0,
+                    "end": 57300.0,
+                    "pitch": 15,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "yi",
+                    "phonemes": {},
+                    "start": 57300.0,
+                    "end": 57400.0,
+                    "pitch": 14,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "ge",
+                    "phonemes": {},
+                    "start": 57400.0,
+                    "end": 57500.0,
+                    "pitch": 12,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "ta",
+                    "phonemes": {},
+                    "start": 57500.0,
+                    "end": 57600.0,
+                    "pitch": 14,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "que",
+                    "phonemes": {},
+                    "start": 57700.0,
+                    "end": 57800.0,
+                    "pitch": 5,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "zai",
+                    "phonemes": {},
+                    "start": 57800.0,
+                    "end": 57900.0,
+                    "pitch": 7,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "ye",
+                    "phonemes": {},
+                    "start": 57900.0,
+                    "end": 58100.0,
+                    "pitch": 14,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "wu",
+                    "phonemes": {},
+                    "start": 58100.0,
+                    "end": 58200.0,
+                    "pitch": 17,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "fa",
+                    "phonemes": {},
+                    "start": 58200.0,
+                    "end": 58300.0,
+                    "pitch": 17,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "wan",
+                    "phonemes": {},
+                    "start": 58300.0,
+                    "end": 58500.0,
+                    "pitch": 14,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "quan",
+                    "phonemes": {},
+                    "start": 58500.0,
+                    "end": 58600.0,
+                    "pitch": 17,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "ting",
+                    "phonemes": {},
+                    "start": 58600.0,
+                    "end": 58750.0,
+                    "pitch": 5,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                },
+                {
+                    "lyrics": "xia",
+                    "phonemes": {},
+                    "start": 58750.0,
+                    "end": 59250.0,
+                    "pitch": 7,
+                    "mult_speakers_settings": {},
+                    "language": {}
+                }
+            ],
+            "curves": {
+                "pitch": [],
+                "dynamic": [],
+                "gender": [],
+                "power": [],
+                "breath": []
+            }
+        }
+    ]
+}
